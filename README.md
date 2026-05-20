@@ -45,7 +45,7 @@ Com que les dues parts tenen un retard d’aproximadament un segon, els missatge
 
 A la sortida del monitor sèrie es pot veure que les dues tasques s’executen de manera contínua.
 
-![Monitor sèrie Exercici 1](monitor_ex1.png)
+![Monitor sèrie Exercici 1](ImatgesiVideos_P4/monitor_ex1.png)
 
 ---
 
