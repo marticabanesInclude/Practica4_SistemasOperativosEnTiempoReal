@@ -93,7 +93,7 @@ LED ENCENDIDO - Ejecutado por Tarea 1
 LED APAGADO - Ejecutado por Tarea 2
 ```
 
-![Monitor sèrie Exercici 2](monitor_ex2.png)
+![Monitor sèrie Exercici 2](ImatgesiVideos_P4/monitor_ex2.png)
 
 ---
 
@@ -101,7 +101,7 @@ LED APAGADO - Ejecutado por Tarea 2
 
 En el següent vídeo es pot veure el LED encenent-se i apagant-se segons les dues tasques sincronitzades.
 
-[Vídeo Exercici 2](Exercici_2/video_ex2.mp4)
+[Vídeo Exercici 2](ImatgesiVideos_P4/video_ex2.mp4)
 
 ---
 
@@ -178,7 +178,7 @@ Quan el sistema està en mode d’ajust, el LED de mode s’encén. El botó d�
 
 En el següent vídeo es pot veure el LED parpellejant i el funcionament del sistema.
 
-[Vídeo Extensió 1](video_extensio1.mp4)
+[Vídeo Extensió 1](ImatgesiVideos_P4/video_extensio1.mp4)
 
 ---
 
@@ -270,15 +270,15 @@ Un cop connectat el dispositiu a aquesta xarxa, es pot accedir a la web del joc 
 
 Foto del muntatge:
 
-![Foto Extensió 2 - Muntatge](muntatge1_joc.jpeg)
+![Foto Extensió 2 - Muntatge](ImatgesiVideos_P4/muntatge1_joc.jpeg)
 
 Foto del joc funcionant:
 
-![Foto Extensió 2 - Muntatge](muntatge2_joc.jpeg)
+![Foto Extensió 2 - Muntatge](ImatgesiVideos_P4/muntatge2_joc.jpeg)
 
 Foto de la pàgina web:
 
-![Foto Extensió 2 - Web](joc_extensio2.png)
+![Foto Extensió 2 - Web](ImatgesiVideos_P4/joc_extensio2.png)
 
 ---
 
