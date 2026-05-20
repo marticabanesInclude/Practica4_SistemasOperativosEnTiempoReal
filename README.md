@@ -101,7 +101,7 @@ LED APAGADO - Ejecutado por Tarea 2
 
 En el següent vídeo es pot veure el LED encenent-se i apagant-se segons les dues tasques sincronitzades.
 
-[Vídeo Exercici 2](ImatgesiVideos_P4/video_ex2.mp4)
+[Vídeo Exercici 2](ImatgesiVideos_P4/video_ex2.MOV)
 
 ---
 
