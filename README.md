@@ -101,7 +101,7 @@ LED APAGADO - Ejecutado por Tarea 2
 
 En el següent vídeo es pot veure el LED encenent-se i apagant-se segons les dues tasques sincronitzades.
 
-[Vídeo Exercici 2](ImatgesiVideos_P4/video_ex2.MOV)
+[Vídeo Exercici 2](https://drive.google.com/drive/u/0/folders/1bmEWfqx6-Xf7OwgflKa-ofMxLPLLItI7)
 
 ---
 
@@ -178,7 +178,7 @@ Quan el sistema està en mode d’ajust, el LED de mode s’encén. El botó d�
 
 En el següent vídeo es pot veure el LED parpellejant i el funcionament del sistema.
 
-[Vídeo Extensió 1](ImatgesiVideos_P4/video_extensio1.mp4)
+[Vídeo Extensió 1](https://drive.google.com/drive/u/0/folders/1bmEWfqx6-Xf7OwgflKa-ofMxLPLLItI7)
 
 ---
 
